@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arsaix10.github.io/manuel-villegas-mlb/sitemap.xml
